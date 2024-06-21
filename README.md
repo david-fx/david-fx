@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @david-fx
-- 👀 I’m interested in machine learning and artificial intelligence
-- 🌱 I’m currently learning : machine learning
+- 👀 I’m interested in machine learning (ML) and artificial intelligence (AI)
+- 🌱 I’m currently learning : ML
 - 📫 How to reach me ...
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I ♡ Bali 
