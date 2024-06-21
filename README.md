@@ -2,6 +2,9 @@
 - 👀 I’m interested in machine learning (ML) and artificial intelligence (AI)
 - 🌱 I’m currently learning : ML
 - 📫 How to reach me ...
+-   Kaggle :
+-   LinkedIn :
+-   Quora :
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I ♡ Bali 
 
