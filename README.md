@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @david-fx
 - 👀 I’m interested in machine learning (ML) and artificial intelligence (AI)
-- 🌱 I’m currently learning : ML
 - 📫 How to reach me ...
+-   Email : davidfxwinata@gmail.com 
 -   Kaggle :
 -   LinkedIn :
 -   Quora :
