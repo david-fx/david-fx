@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning (ML) and artificial intelligence (AI)
 - 📫 How to reach me
 -   Email : davidfxwinata@gmail.com 
--   Kaggle : [kag](https://www.kaggle.com/davidfw)
+-   Kaggle : https://www.kaggle.com/davidfw
 -   LinkedIn : https://www.linkedin.com/in/david-felix-1786411b4/
 -   Quora : 
 - 😄 Pronouns: he / him
