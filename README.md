@@ -2,9 +2,9 @@
 - 👀 I’m interested in machine learning (ML) and artificial intelligence (AI)
 - 📫 How to reach me
 -   Email : davidfxwinata@gmail.com 
--   Kaggle :
--   LinkedIn :
--   Quora :
+-   Kaggle : [kag](https://www.kaggle.com/davidfw)
+-   LinkedIn : https://www.linkedin.com/in/david-felix-1786411b4/
+-   Quora : 
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I ♡ Bali 
 
