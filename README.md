@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @david-fx
-- 👀 I’m interested in machine learning (ML) and artificial intelligence (AI)
+- 👀 I’m interested in machine learning (ML) and dApp
 - 📫 How to reach me
 -   Email : davidfxwinata@gmail.com 
 -   Kaggle : https://www.kaggle.com/davidfw
