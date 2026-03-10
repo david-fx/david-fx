@@ -3,7 +3,7 @@
 - 📫 How to reach me
 -   Email : davidfxwinata@gmail.com 
 -   Kaggle : https://www.kaggle.com/davidfw
--   LinkedIn : https://www.linkedin.com/in/david-felix-1786411b4/
+-   LinkedIn : https://www.linkedin.com/in/david-felix-6143523b6/
 -   Quora : 
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I ♡ Bali 
